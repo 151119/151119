@@ -1,5 +1,9 @@
-# Hi, I am Souradeep!
+#Hi 👋, I'm souradeep chatterjee
+
 
 - 📋 Profession: Programmer in India
-- 📊 Interests: C, Java, Python, reading books, travelling
+- 📊 Interests programming: C, Java, Python
+- ✈️ travelling
+- 📚 reading books
 - 📞 Contact: chatsoura24@gmail.com
+-
