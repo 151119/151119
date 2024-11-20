@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm souradeep chatterjee</h1>
-<h3 align="center">programmer from west bengal india</h3>
+<h3 align="center">programmer from West Bengal, India</h3>
 <h5 align="left">🚀About Me:</h5>
 
 - 🌱 I’m currently learning **DSA using python**
